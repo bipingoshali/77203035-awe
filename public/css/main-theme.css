@@ -1,0 +1,13 @@
+body {
+    padding-top: 50px;
+}
+.main-body{
+    padding-top: 20px;
+}
+.book-pic{
+    max-height: 150px;
+    max-width: 200px;
+}
+#edit_btn{
+    margin-bottom: 10px;
+}
